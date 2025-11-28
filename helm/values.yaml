@@ -52,7 +52,6 @@ ns:
   enable: false
 api-gateway:
   image:
-    repository: docker.io/mykytakhomenko
     tag: 0.51.2
   service:
     type: NodePort
